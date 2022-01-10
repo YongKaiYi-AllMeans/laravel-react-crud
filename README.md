@@ -68,3 +68,9 @@ php artisan make:controller ******
 ```
 php artisan migrate
 ```
+
+# Reference
+1. https://www.fundaofwebit.com/post/crud-app-in-react-js-with-hooks-using-laravel-8-restful-api
+2. https://www.youtube.com/watch?v=NidmTs2xZaE
+3. https://blog.devgenius.io/a-blogs-posts-app-with-laravel-react-crud-c714c6c5944f
+4. https://github.com/vikalp2502/laravel-react-crud-posts
